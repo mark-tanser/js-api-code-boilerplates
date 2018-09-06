@@ -1,2 +1,2 @@
-# learn-api-code-boilerplates
+# js-api-code-boilerplates
 templates for javascript
